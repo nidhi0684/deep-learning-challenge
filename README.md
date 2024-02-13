@@ -7,9 +7,9 @@ In this challenge, we'll use a deep learning model, to create a binary classific
 
 ### Key Artifacts and Solution
 
-- [Jupyter Notebook for Initial Model](#AlphabetSoupCharity.ipynb)
-- [Jupyter Notebook for Best Optimized Model](#AlphabetSoupCharity_Optimization3.ipynb)
-- [Final_Analysis and Report on the Neural Network Model](#AlphabetSoupCharity_Funding AnalysisReport.md)
+- [Jupyter Notebook for Initial Model](https://github.com/nidhi0684/deep-learning-challenge/blob/main/AlphabetSoupCharity.ipynb)
+- [Jupyter Notebook for Best Optimized Model](https://github.com/nidhi0684/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization3.ipynb)
+- [Final_Analysis and Report on the Neural Network Model](https://github.com/nidhi0684/deep-learning-challenge/blob/main/AlphabetSoupCharity_Funding%20AnalysisReport.md)
 
 ## Data Preprocessing
 
